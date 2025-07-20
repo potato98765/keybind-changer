@@ -25,3 +25,12 @@ I recommend if you want to hide the a key or an entire section use this mod.
 
 # How to compile
 First download gradle 8.6 then open a cmd window then type the command ```gradle build``` or if you didnt add it to path then do is extract the the zip of gradle then go into the bin folder then copy the path of the gradle.bat file and run this command in your project directory ```(put gradle path here) gradle build```
+
+Example if you dont have gradle in PATH:
+
+1. Download gradle 8.6
+2. Extract it
+3. Go into 'bin' folder
+4. Copy path of 'gradle.bat'
+5. Open cmd
+6. Type command the command ```C:\Users\YOURNAME\Downloads\Gradle-8.6\bin\gradle.bat gradle build```
