@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "forceunbindmod",
+  "version": "1.0.0",
+  "name": "ForceUnbindMod",
+  "description": "A mod that forcefully unbinds a key",
+  "authors": ["MrPotato"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.mrpotato.forceunbind.ForceUnbindMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
