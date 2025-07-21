@@ -32,5 +32,6 @@ Example if you dont have gradle in PATH:
 2. Extract it
 3. Go into 'bin' folder
 4. Copy path of 'gradle.bat'
-5. Open cmd
-6. Type command the command ```C:\Users\YOURNAME\Downloads\Gradle-8.6\bin\gradle.bat gradle build```
+5. Go back to your project directory
+6. Open cmd
+7. Type command the command ```C:\Users\YOURNAME\Downloads\Gradle-8.6\bin\gradle.bat gradle build```
