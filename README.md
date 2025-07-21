@@ -1,12 +1,12 @@
 ## Keybind Changer
 
 With this mod change keybinds before the game starts so you can set up pre-built keybinds.
-Currently i just releasd this mod because of why not so by default it only has one keybind setting for SDM Shop but if you want me to add more keybinds just go to the issue tracker and make a request.
+If you find an issue report it on the bug tracker.
 
 ### Current keybinds
 
-- SDM Shop open shop keybind to unbind
-- I will add more im just lazy.
+All keybinds can be set in a config file if you use 2.0 or later.
+The config file is in the config folder the and the file is labled keybind-changer-config.json in there you can change the what key shoud be set to what.
 
 ## Compatibility
 
