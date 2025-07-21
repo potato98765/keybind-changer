@@ -19,7 +19,7 @@ If you know how to do it and you dont want to wait for an update or just want to
 
 
 ## Recommended mod if you want to hide keys or sections 
-I recommend if you want to hide the a key or an entire section use this mod.
+I recommend this if you want to hide the a key or an entire section use this mod.
 
 [https://modrinth.com/mod/keybindhider](https://modrinth.com/mod/keybindhider)
 
