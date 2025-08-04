@@ -25,4 +25,4 @@ I recommend this if you want to hide the a key or an entire section use this mod
 4. Copy path of 'gradle.bat'
 5. Go back to your project directory
 6. Open cmd
-7. Type in the command ```C:\Users\YOURNAME\Downloads\Gradle-8.6\bin\gradle.bat gradle build```
+7. Paste in the path then write ```build``` after it.
