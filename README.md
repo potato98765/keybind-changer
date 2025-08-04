@@ -12,12 +12,6 @@ The config file is in the config folder the and the file is labled keybind-chang
 
 This mod is compatible with any other mod.
 
-
-## Edit the code from source
-
-If you know how to do it and you dont want to wait for an update or just want to add something just fork the github project.
-
-
 ## Recommended mod if you want to hide keys or sections 
 I recommend this if you want to hide the a key or an entire section use this mod.
 
